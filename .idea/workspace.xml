@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcd7ffef-9398-4371-bfcd-8ced46296712" name="Default Changelist" comment="Сделал урок №1. Добавил модули scss.">
+      <change afterPath="$PROJECT_DIR$/src/tutorial-2/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutorial-2/components/Form.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tutorial-2/components/Form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial-1/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial-1/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/tutorial-1/components/ProfileClass.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial-1/components/ProfileClass.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tutorial-1/components/ProfileFunc.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial-1/components/ProfileFunc.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/tutorial-1/components" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -36,6 +39,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\React\reactproject\archtutor\src" />
       <recent name="E:\React\reactproject\archtutor\src\tutorial-1\components" />
       <recent name="E:\React\reactproject\archtutor" />
     </key>
@@ -49,7 +53,8 @@
       <option name="presentableId" value="Default" />
       <updated>1633966370796</updated>
       <workItem from="1633966373075" duration="7955000" />
-      <workItem from="1634053582779" duration="3034000" />
+      <workItem from="1634053582779" duration="4023000" />
+      <workItem from="1634061487056" duration="4940000" />
     </task>
     <task id="LOCAL-00001" summary="Сделал урок №1. Добавил модули scss.">
       <created>1633972668449</created>
