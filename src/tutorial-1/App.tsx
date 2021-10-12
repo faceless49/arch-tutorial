@@ -6,8 +6,8 @@ export const App = () => {
 
   return (
     <div>
-      <ProfileFunc name={"Вася Пупкин"} registredAt={date} />
-      <ProfileClass name={"Вася Пупкин"} registredAt={date} />
+      <ProfileFunc name="Вася Пупкин" registredAt={date} />
+      <ProfileClass name="Вася Пупкин" />
     </div>
   );
 };
