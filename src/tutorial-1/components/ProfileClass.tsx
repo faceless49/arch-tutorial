@@ -11,9 +11,9 @@ export class ProfileClass extends React.Component<PropsType> {
     let day, month, year;
 
     if (!this.props.registredAt) {
-      day = "Неизвестная";
-      month = "дата";
-      year = "регистрации";
+      day = null;
+      month = null;
+      year = null;
     } else {
       [day, month, year] = [
         this.props.registredAt.getDate(),
@@ -28,7 +28,10 @@ export class ProfileClass extends React.Component<PropsType> {
           Привет,{" "}
           <span className={style.name}>{this.props.name || "Аноним"}</span>
         </h3>
-        <span>Дата регистрации: {`${day} ${month} ${year}`}</span>
+        <span>
+          Дата регистрации:{" "}
+          {this.props.registredAt ? `${day} ${month} ${year}` : "---"}
+        </span>
       </div>
     );
   }

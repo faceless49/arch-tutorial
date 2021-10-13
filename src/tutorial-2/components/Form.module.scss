@@ -1,0 +1,12 @@
+.wrap {
+  display: flex;
+  justify-content: flex-start;
+  .form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    .info {
+      height: 30px;
+    }
+  }
+}
