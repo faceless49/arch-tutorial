@@ -5,7 +5,7 @@ export const Article = (props: ArticlePropsType) => {
   return (
     <div>
       <div>
-        <h1>Статья №{props.id}</h1>
+        <h1>Статья №{props.id ? props.id : ""}</h1>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae
           distinctio fuga animi aliquam sit id veritatis, doloribus ducimus
